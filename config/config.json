@@ -1,0 +1,15 @@
+{
+    "host": "http://localhost",
+    "port": 1234,
+    "secret": "t193r against The Dragon",
+    "database": {
+        "MongoDB" : {
+            "engine": "mongodb",
+            "active": false,
+            "host": "localhost",
+            "port": 27017,
+            "dbname": "t193r"
+        }
+    }
+        
+}
